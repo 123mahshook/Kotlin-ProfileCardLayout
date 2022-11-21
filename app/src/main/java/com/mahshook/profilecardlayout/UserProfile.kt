@@ -9,5 +9,17 @@ constructor(
 
 val userProfileList= arrayListOf<UserProfile>(
     UserProfile(name = "Jhone Doe", status =  true, drawableId =  R.drawable.profile_picture),
-            UserProfile(name = "Anna jhones", status =  false, drawableId =  R.drawable.profile_picture2)
+    UserProfile(name = "Anna jhones", status =  false, drawableId =  R.drawable.profile_picture2),
+            UserProfile(name = "Jhone Doe", status =  true, drawableId =  R.drawable.profile_picture),
+UserProfile(name = "Anna jhones", status =  false, drawableId =  R.drawable.profile_picture2),
+    UserProfile(name = "Jhone Doe", status =  true, drawableId =  R.drawable.profile_picture),
+UserProfile(name = "Anna jhones", status =  false, drawableId =  R.drawable.profile_picture2),
+    UserProfile(name = "Jhone Doe", status =  true, drawableId =  R.drawable.profile_picture),
+    UserProfile(name = "Anna jhones", status =  false, drawableId =  R.drawable.profile_picture2),
+    UserProfile(name = "Jhone Doe", status =  true, drawableId =  R.drawable.profile_picture),
+UserProfile(name = "Anna jhones", status =  false, drawableId =  R.drawable.profile_picture2),
+    UserProfile(name = "Jhone Doe", status =  true, drawableId =  R.drawable.profile_picture),
+    UserProfile(name = "Anna jhones", status =  false, drawableId =  R.drawable.profile_picture2),
+            UserProfile(name = "Jhone Doe", status =  true, drawableId =  R.drawable.profile_picture),
+UserProfile(name = "Anna jhones", status =  false, drawableId =  R.drawable.profile_picture2)
 )
